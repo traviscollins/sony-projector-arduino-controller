@@ -21,7 +21,7 @@ Code and schematics for controlling a Sony brand projector with an Arduino.
 # How to Use
 
 1. Purchase the materials listed above
-2. Solider the components to the Arduino RS232 Serial Shield using the wiring diagram below
+2. Soldier the components to the Arduino RS232 Serial Shield using the wiring diagram below
 3. Upload the code to the Arduino
 4. Connect the Arduino to the projector using the serial cable
 5. Connect the Amplifier to the Arduino using the 1/8" Mono Plug to Bare Wire cable
