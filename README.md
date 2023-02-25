@@ -38,7 +38,7 @@ Code and schematics for controlling a Sony brand projector with an Arduino.
 
 # Troubleshooting
 
-- Upon reset/startup - the Arduino will read the amplifiers 12v output, but will not send a command to the projector. This is to ensure the projector isn't randomly turned on or off when the Arduino is reset. You must toggle the amplifiers state to turn the projector on or off after Arduino reset/startup.
+- Upon reset/startup - the Arduino will read the amplifier's 12v output, but will not send a command to the projector. This is to ensure the projector is not randomly turned on or off when the Arduino is reset. You must toggle the amplifier's state to turn the projector on or off after Arduino reset/startup.
 
 - The green light on the Arduino will turn on when the amplifier is turned on
 
